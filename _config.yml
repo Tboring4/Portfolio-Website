@@ -1,4 +1,6 @@
-theme: minima
+---
+theme: hack
 title: Blog/Portfolio
 Author: Tristen Boring
-Description: Hello everone! Welcome to by blog/portfolio website. The main purpose here is to have a space where I can maintain my web development skills, document my education, post art, code, and whatever else comes to mind.
+Description: Workspace to maintain web development skills, post projects, post art, experiment, and whatever else comes to mind.
+---
